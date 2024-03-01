@@ -1,7 +1,7 @@
 <div align=center>
  <div>
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&center=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B++It's+Diko;System.out.print(+%22+Hello+World+%22+)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B++It's+Diko;System.out.print(+%22+Hello+World+%22+)" alt="Typing SVG" />
  </a>
 </div>
 
