@@ -2,8 +2,9 @@
 
 **like eating 🍉, playing 🏸, gaming 🎮, sleeping in 🛌 and 📺 ACGN**
 
-![Diko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daieenbo&theme=radical)
+![Diko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daieenbo&theme=radical#pic_center)
 
+![](https://raw.githubusercontent.com/Daieenbo/Daieenbo/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Daieenbo/Daieenbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
