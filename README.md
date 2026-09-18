@@ -9,12 +9,13 @@
  </a>
 </div>
 
-
+<!--
 &nbsp;
  <picture>
   <img src="https://github.com/Daieenbo/Daieenbo/blob/output/how-to-start.gif">
  </picture>
 &nbsp;
+-->
 
 <div>
  love eating 🍉, playing 🏸, gaming 🎮, sleeping in 🛌 and 📺 ACGN &emsp;
