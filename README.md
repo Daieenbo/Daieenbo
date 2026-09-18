@@ -17,9 +17,8 @@
 &nbsp;
 
 <div>
- like eating 🍉, playing 🏸, gaming 🎮, sleeping in 🛌 and 📺 ACGN &emsp;
+ love eating 🍉, playing 🏸, gaming 🎮, sleeping in 🛌 and 📺 ACGN &emsp;
  
- 🌱 I’m currently learning
 </div>
 
 &nbsp;
