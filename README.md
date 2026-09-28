@@ -18,7 +18,7 @@
 -->
 
 <div>
- love eating 🍉, playing 🏸, gaming 🎮, sleeping in 🛌 and 📺 ACGN &emsp;
+ enjoy nice food 🍉, badminton 🏸, FPS gaming 🎮, sound sleep 🛌 and ACGN 📺 &emsp;
  
 </div>
 
