@@ -32,11 +32,11 @@
  </div>
 
 &nbsp;
-
+<!--
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Daieenbo&theme=radical">
  </div>
-
+-->
 &nbsp;
 
  ![](https://raw.githubusercontent.com/Daieenbo/Daieenbo/output/github-contribution-grid-snake-dark.svg)
